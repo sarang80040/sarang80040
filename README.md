@@ -19,7 +19,7 @@
 
 
 **Languages & Frameworks:**
-HTML , CSS , C++ , Python 
+HTML , CSS , Javascript, C++ , Python 
 
 
 
