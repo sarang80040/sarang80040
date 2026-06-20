@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning or focusing on **Frontend dev,Backend dev, Machine Learning**.
 - 💡 I love building projects that **I feel interesting**.
 - 🤝 I’m open to collaborating on **Open Source projects, Hackathons**.
-- 📫 How to reach me: **ssmeshte_b24@it.vjti.ac.in** or connect with me on the platforms below!
+- 📫 How to reach me: **ssmeshte_b24@it.vjti.ac.in**
 
 <br>
 
